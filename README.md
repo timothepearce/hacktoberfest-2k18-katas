@@ -1,4 +1,4 @@
-# Hacktoberfest 2018 Code Challenges
+# Hacktoberfest in 2018 Code Challenges
 
 The point of this repository is to allow anyone to start contributing on a
 public repository.
